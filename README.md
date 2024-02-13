@@ -1,5 +1,5 @@
-<h3 align="left">Hey👋</h3>
-<br><br>
+<h3 align="left">Hi👋</h3>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=neetesshhr)
 
