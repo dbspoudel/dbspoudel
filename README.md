@@ -1,7 +1,7 @@
 <h3 align="left">Hi👋</h3>
 <br>
 
-![](https://komarev.com/ghpvc/?username=neetesshhr)
+// ![](https://komarev.com/ghpvc/?username=neetesshhr)
 
 <h3>Follow me at</h3>
 <div>
